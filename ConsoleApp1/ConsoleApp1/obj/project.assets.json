@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vajac\\OneDrive\\Рабочий стол\\Работа\\Курсы повышения квалификации\\GeekBrains\\Разработчик\\Языки программирования\\Лекции\\Лекция 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\vajac\\OneDrive\\Рабочий стол\\Работа\\Курсы повышения квалификации\\GeekBrains\\Разработчик\\Языки программирования\\Лекции\\Лекция 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\vajac\\OneDrive\\Рабочий стол\\Работа\\Курсы повышения квалификации\\GeekBrains\\Разработчик\\Языки программирования\\Лекции\\Лекция 1\\ConsoleApp1\\ConsoleApp1\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\vajac\\OneDrive\\Рабочий стол\\Работа\\Курсы повышения квалификации\\GeekBrains\\Разработчик\\Языки программирования\\Лекции\\Лекция 1\\ConsoleApp1\\ConsoleApp1\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\vajac\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vajac\\OneDrive\\Рабочий стол\\Работа\\Курсы повышения квалификации\\GeekBrains\\Разработчик\\Языки программирования\\Лекции\\Лекция 1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
